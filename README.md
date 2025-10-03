@@ -1,1 +1,1 @@
-# Spark-based-Alzheimer-s-Diagnosis-from-Clinical-Cognitive-Tabular-Data
+This repository contains a Spark pipeline for classifying Alzheimer’s vs. non-Alzheimer’s using clinical and cognitive tabular data. We use preprocessing, statistical analysis, and machine learning (Logistic Regression and Random Forest). Dataset: Alzheimer’s Disease Dataset from Kaggle (~2,149 rows, 34 columns). Team of 5 members working across 10 VMs for benchmarking.
